@@ -1,0 +1,7 @@
+.history
+/node_modules
+/dist
+# .eslintrc.json
+# .prettierignore
+# .prettierrc.json
+# webpack.config.js
